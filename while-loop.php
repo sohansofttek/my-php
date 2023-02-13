@@ -18,7 +18,9 @@
             else{
                 echo $count ."<br/>";
             }
-            $count = $count + 1 ;
+           // $count = $count + 1 ;
+            $count ++ ;
+           // $count + = 1 ;
         }
     
     
