@@ -16,7 +16,7 @@ for($s = 0;$s <= 12; $s++){
     echo $s ."<br/>";
 }
 
-
+echo "<hr/>";//show the line 
 }
 count_to_twelve();
 
